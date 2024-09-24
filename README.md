@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kushwaha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Java full stack and MERN **
+- 🌱 I’m currently learning **Java full stack **
 
 - 📫 How to reach me **ashutoshk7472@gmail.com**
 
