@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Kushwaha</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Java full stack **
+
+# Hi 👋, I'm Ashutosh Kushwaha
+## A passionate Full Stack Developer from India
+
+- 🌱 I’m currently learning **Java full stack**
 
 - 📫 How to reach me **ashutoshk7472@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ashutosh27393204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashutosh27393204" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh-kushwaha-7391b6207?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-kushwaha-7391b6207?" height="30" width="40" /></a>
-<a href="https://instagram.com/ashutosh_kushwaha_7216___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_kushwaha_7216___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ashutoshk7472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ashutoshk7472" height="30" width="40" /></a>
+### Connect with me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-@ashutosh27393204-blue?style=for-the-badge)](https://twitter.com/@ashutosh27393204)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AshutoshKushwaha-blue?style=for-the-badge)](https://linkedin.com/in/ashutosh-kushwaha-7391b6207)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh2505&show_icons=true&locale=en&layout=compact" alt="ashutosh2505" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh2505&show_icons=true&locale=en" alt="ashutosh2505" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh2505&show_icons=true&locale=en" alt="ashutosh2505" /></p>
