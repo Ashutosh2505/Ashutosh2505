@@ -1,11 +1,11 @@
 
 
-# Hi 👋, I'm Ashutosh Kushwaha
-## A passionate Full Stack Developer from India
+Hi 👋, I'm Ashutosh Kushwaha
+A passionate Full Stack Developer from India
 
-- 🌱 I’m currently learning **Java full stack**
+- 🌱 I’m currently learning Java full Stack
 
-- 📫 How to reach me **ashutoshk7472@gmail.com**
+- 📫 How to reach me ashutoshk7472@gmail.com
 
 ### Connect with me:
 
