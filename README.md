@@ -3,7 +3,7 @@
 Hi 👋, I'm Ashutosh Kushwaha
 A passionate Full Stack Developer from India
 
-- 🌱 I’m currently learning Java full Stack
+- 🌱 I’m Java full Stack developer
 
 - 📫 How to reach me ashutoshk7472@gmail.com
 
